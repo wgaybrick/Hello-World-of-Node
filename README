@@ -1,0 +1,1 @@
+This is more or less the smallest possible Node app.  It consists of a single static page printing, "Hello World of Node!"  It is configured here to run on Heroku's Cedar stack.
